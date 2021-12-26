@@ -1,0 +1,46 @@
+a{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color:white;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-top: 0px;
+    border-left: 8px;
+    border-right: 8px;
+}
+.submit{
+    color: #007acc;
+    background-color: lightgray;
+    font-size: 25px;
+    border: 0px;
+    margin: 0px;
+}
+.submit:hover{
+    background-color: white;
+}
+.logo{
+    height: 40%;
+    width: 40%;
+    text-align: left;
+}
+.logoText{
+    font-size: 40px;
+    text-align: left;
+    background-color: gray;
+}
+.user{
+    height: 40%;
+    width: 40%;
+    text-align: left;
+}
+.user:hover{
+    background-color: lightgray;
+}
+.imgs{
+    width: 96px;
+    height: 96px;
+    text-align: center;
+}
